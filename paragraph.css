@@ -32,3 +32,9 @@ h2 {
     width: 20%;
     border-style: none;
 }
+
+.img-01 {
+    width: 500px;
+    border: 1px solid grey;
+    box-shadow: inset 2px 2px 5px;
+}
